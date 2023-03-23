@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>685776894480-mj8ea0ki7n09dhkhtg9re2bfqknp0n5l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.685776894480-mj8ea0ki7n09dhkhtg9re2bfqknp0n5l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaB2gOL-e-8TYq4C7UBg3kkh_ul1LDbGw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>685776894480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.phinverse.ios.phincash</string>
+	<key>PROJECT_ID</key>
+	<string>phincash-lsq</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phincash-lsq.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:685776894480:ios:2a9441da2f3a7b33b22895</string>
+</dict>
+</plist>

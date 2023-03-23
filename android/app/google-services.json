@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685776894480",
+    "project_id": "phincash-lsq",
+    "storage_bucket": "phincash-lsq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685776894480:android:e531512a6ae789d6b22895",
+        "android_client_info": {
+          "package_name": "com.phinverse.phincash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685776894480-mq7het2hfou3942pg36u9drn370d6gfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAurF5CSvFiBopm0wHvCD9Lk8y2e5RPJts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685776894480-mq7het2hfou3942pg36u9drn370d6gfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

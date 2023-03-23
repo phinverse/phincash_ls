@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">685776894480-mq7het2hfou3942pg36u9drn370d6gfe.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">685776894480</string>
+    <string name="google_api_key" translatable="false">AIzaSyAurF5CSvFiBopm0wHvCD9Lk8y2e5RPJts</string>
+    <string name="google_app_id" translatable="false">1:685776894480:android:e531512a6ae789d6b22895</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAurF5CSvFiBopm0wHvCD9Lk8y2e5RPJts</string>
+    <string name="google_storage_bucket" translatable="false">phincash-lsq.appspot.com</string>
+    <string name="project_id" translatable="false">phincash-lsq</string>
+</resources>

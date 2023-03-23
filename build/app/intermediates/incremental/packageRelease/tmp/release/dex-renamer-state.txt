@@ -1,0 +1,4 @@
+#Sun Mar 19 22:01:23 WAT 2023
+base.0=C\:\\Users\\badea\\Documents\\commodots\\projects\\webview_pc\\new\\pro_web-v1.0.0\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
